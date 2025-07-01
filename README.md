@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChrisVeigas
-- 👀 I’m interested in Ethical Hacking and working with UI/UX. I'm also interested in Football, Athletics, Music, Art, Reading and Writing
-- 🌱 I’m currently learning Cyber Security.
+- 👀 I’m interested in Ethical Hacking, UI/UX, Neural Networks, NeuroImaging and working with Frontend.
+- 🌱 I’m currently learning Cyber Security, Cloud Computing, Computer Vision and AI&ML.
 - 💞️ I’m looking to collaborate on Ethical Hacking and Cyber Security
 - 📫 Reach me @christineveigas033@gmail.com
